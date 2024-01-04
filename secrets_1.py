@@ -1,0 +1,4 @@
+spotify_user_id = ""
+discover_weekly_id = ""
+refresh_token = "AQAgsSjnfw8CoAHBxz7Ii3Q1FqxP7RV9vEkSyHuau4OprSeQljH5sva2l3bydJCvhNAZXJxsqqFWquLrZERssvw4uOf9A_QR1mb97ZycQ0ewgyo8aoE-1u-S_64pPzZVNV0"
+base_64 = "YTI1NmY1NTdmNTcyNGY4MTg0MmViMjRjYjVjOTBiZGQ6NjcxYjJhZDEyYWE1NDVlOGEwNGY4ZDMwZTMyMDZmNGQ="
