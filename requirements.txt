@@ -1,6 +1,3 @@
-client id=a256f557f5724f81842eb24cb5c90bdd
-client secret=671b2ad12aa545e8a04f8d30e3206f4d
-http://localhost:3000
-
-
-https://accounts.spotify.com/authorize?client_id=a256f557f5724f81842eb24cb5c90bdd&response_type=code&redirect_uri=http%3A%2F%2Flocalhost%3A3000&scope=playlist-modify-public%20playlist-modify-private
+googleapiclient
+google_auth_oauthlib
+yt_dlp
